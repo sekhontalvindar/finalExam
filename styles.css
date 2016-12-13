@@ -1,0 +1,41 @@
+body{
+    font-family:Calibri;
+    margin-right:auto;
+    margin-left:auto;
+    width:960px;
+    background-color: #333;
+    border:1px solid white;
+    padding:20px;
+    color:white;
+
+}
+select{
+    width:100px;
+
+    cursor: pointer;
+    height:30px;
+
+}
+.submit{
+    height:30px;
+    cursor: pointer;
+
+}
+
+a{
+    color: Orange;
+}
+fieldset{
+    font-size: 1.2em;
+    padding:10px;
+}
+span{
+display:block;
+
+}
+strong{
+    color:Yellow;
+}
+em{
+    color:Orange;
+}
